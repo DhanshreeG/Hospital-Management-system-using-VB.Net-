@@ -1,0 +1,7 @@
+Hospital Management System In VB.NET
+
+Login Details
+
+Username : admin
+Password : admin123
+
